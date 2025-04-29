@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Developer From The US </h3>
 
 <p align="center">
-  <a href="[https://yourwebsite.com](https://clubhokai.netlify.app/)" target="_blank">
+  <a href="https://clubhokai.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="mailto:bryant.e.martinez@outlook.com">
