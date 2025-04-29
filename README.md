@@ -8,7 +8,7 @@
   <a href="mailto:bryant.e.martinez@outlook.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="[https://linkedin.com/in/yourusername](https://www.linkedin.com/in/bryant-martinez-0886a130a/)" target="_blank">
+  <a href="https://www.linkedin.com/in/bryant-martinez-0886a130a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 <!--   <a href="https://twitter.com/yourhandle" target="_blank">
